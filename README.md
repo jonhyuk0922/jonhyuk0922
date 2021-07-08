@@ -3,4 +3,4 @@
 You can just call me jo nyuk! 
 
 - 🔭 I’m currently searching to work
-- 🌱 I’m currently learning NLP and Data Science
+- 🌱 I’m currently learning GNN and Recommend system
