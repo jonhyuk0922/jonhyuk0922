@@ -2,5 +2,5 @@
 
 You can just call me jo nyuk! 
 
-- 🔭 I’m currently searching to work
-- 🌱 I’m currently learning GNN and Recommend system
+- 🔭 I’m currently learning at Naver AI Boost Camp 2nd
+- 🌱 I’m currently learning NLP & dialogue Summarization
